@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Olá pessoal👋
+## Sou a Detetive, sou investigadora de fake news
+# Vamos embarcar nessa aventura juntos?!
 <!--
 **detetiveveritas/detetiveveritas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
